@@ -65,6 +65,3 @@ knitr::opts_chunk$set(echo = TRUE)
     + Why? 
     + Which perspectives can you relate to, and which do you have difficulty understanding?  
     + Explain the interrelationships of economic, cultural, and technical systems with United States and countries around the world that are impacted by Uber.
-    
-    
-# Article 1
