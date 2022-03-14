@@ -1,0 +1,67 @@
+---
+title: "Data Translation Challenge"
+author: "Andrew Nalundasan"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    number_sections: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Overview and notes
+
+## DTC objectives
+    
++ **Goal** is to capture all the Uber stakeholders, (and their interests), and provide recommendations on how to improve Uber's stakeholder strategy.
+
++ **Goal** is to accurately represent the needs, concerns, and questions you believe need to be answered for those stakeholders.  
+
+    + Explicitly engage in globally- and socially-responsible decision making.  
+    + Recommendations should be explained in terms of how they are globally and socially responsible.  
+    + Final product should be a proposal advising Uber board members how to best proceed
+
+## Notes
+
++ February 2017 - Kalanick (old CEO) forced to resign after it was discovered how much of a dick he is
+
+    + August 2017 - replaced by Dara Khosrowshahi (former CEO of Expedia)
+
++ Uber in US:
+    
+    + 71% market share for ride-sharing 
+    + 22% market share for food delivery
+
++ 93 million active users globally
+
++ **What is "gig economy"**?
+
++ Due to negative PR, Uber needs help with deciding on if they should keep moving forward like business as usual or if they should change the way they conduct their business
+
++ DTC is a letter to Uber leadership to aid in their decision making
++ Make recommendations based on data and data analysis
+
+## Stakeholders
+
++ Create stakeholder map (Freeman, page 7)
+
+    + Describe the issues and events considering the geographical as well industry context among stakeholders
+    + Focus paper on 3 key stakeholders
+
+## Considerations
+
++ Talking points:
+
+    + tell us what your vision would be for Uber
+    + Describe the issues and events considering the geographical as well industry context among stakeholders
+    + Identify the major problems in this leadership challenge and explain how they impact the organization. 
+    + What is at stake for the key constituents you identified? 
+    + What is behind their perspectives and motivations? Are some perspectives more important than others? 
+    + Why? 
+    + Which perspectives can you relate to, and which do you have difficulty understanding?  
+    + Explain the interrelationships of economic, cultural, and technical systems with United States and countries around the world that are impacted by Uber.
