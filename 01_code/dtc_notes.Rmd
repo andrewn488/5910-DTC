@@ -39,7 +39,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 + 93 million active users globally
 
-+ **What is "gig economy"**?
++ gig economy - freelance contractors that get gigs online thru an app like Uber
+
+    + the ability to work as much as or as little they like
 
 + Due to negative PR, Uber needs help with deciding on if they should keep moving forward like business as usual or if they should change the way they conduct their business
 
@@ -65,3 +67,98 @@ knitr::opts_chunk$set(echo = TRUE)
     + Why? 
     + Which perspectives can you relate to, and which do you have difficulty understanding?  
     + Explain the interrelationships of economic, cultural, and technical systems with United States and countries around the world that are impacted by Uber.
+    + Uber culture:
+        + Accept that wild West days are over. If Uber wants to sustain their business into the future, they need to start listening to its employees
+    
+    
+# How Uber Uses Psychological Tricks to Push Its Drivers' Buttons (Noam Scheiber, April 2017)
+
++ no longer tolerating "brilliant jerk" culture
++ must rebuild trust between Uber and its drivers
++ "gig economy" - freelance based work
++ a perfectly efficient system: a balance between rider demand and driver supply at the lowest cost to passengers and the company
++ automatically load "what's next" similar to Netflix to encourage binge driving
++ "Uber has made softening its posture toward drivers a litmus test of its ability to become a better corporate citizen
+
+    + parallel to organizational citizenship when operating in a cohesive team
+
++ drivers take earnings after Uber gets 25% cut
++ overwhelmingly male dominated drivers
++ internalized motivation is the most powerful type of motivation
++ forward dispatch - overrides self-control
+
+    + this steals autonomy from drivers to be able to make their own decisions
+    + it takes more effort to stop than to keep going
+    + same concept as Netflix "post-play" 
+
+# Uber and Lyft Drivers in California Will Remain Contractors (Kate Conger, November 2020)
+
++ Proposition 22 allows Uber and Lyft to classify drivers as contractors rather than employees
++ Since drivers are contractors, benefits do not need to be paid by the company
+
+    + Health insurance
+    + PTO
+    + other benefits
+    
++ Uber and big tech have been playing off California's lukewarm policy makers to get away with their antics
+
+# Uber will charge significantly more per trip as new Seattle law goes into effect Jan. 1 (Michelle Baruchman, December, 2020, Updated January 2021)
+
++ Uber must charge 25% more due to increase in minimum wage to $16.69
++ prior to pay bump, drivers unable to make a profit to provide for their families - unable to earn a living wage
++ Mayor Jenny Durkan on upping minimum wage for drivers:
+
+    + “must set a fair wage floor standard to create a living wage and add critical benefits and basic worker protections for Uber and Lyft drivers, many of whom have seen their livelihoods decimated by the COVID-19 pandemic and resulting economic downturn,”
+    
++ Drivers are commonly immigrants, refugees and people of color.
++ "Time spent waiting" is factored into driver pay.
+
+    + **I DISAGREE WITH THIS**
+    
++ City mandated paid sick time for gig workers - WTF!?
++ "Raising pay for gig workers is wildly popular and desperately needed — especially in this time of wrenching economic change and extreme income inequality"
+
+# Uber Drivers Are Entitled to Worker Benefits, a British Court Rules (Adam Satariano, February 2021, Updated March 2021)
+
++ Proposition 22 passed in California - drivers are NOT treated as employees and are NOT granted health benefits, PTO, sick time, etc.
+
++ Proposition 22 rejected in Britain - drivers are treated as 
+
++ This case could set a precedent for other workers and companies in the gig economy throughout the U.K. and
+Europe, which would be a body blow to the overall ecosystem
+
++ Uber and other gig economy companies have been fighting off efforts around the world to classify workers as
+employees, with mixed success
+
+    + success in US
+    + failure in Britain, France, Germany, Italy, Spain
+    
+# Seattle’s taxis are hanging on as Uber and Lyft lose billions (Paul Roberts, September 2019)
+
++ 100K taxi license reduced to 0 after Uber/Lyft arrived to Seattle
++ 200/day pre-Uber
++ < 100/day post-Uber
++ TNC <- Transportation Network Companies
++ most recent year the city keeps Taxi data is 2018
++ City officials want to "make it up" to cabbies for allowing TNC's to operate sans regulation
+
+    + Van Dyk says that for five years, the city should pay most of the congestion fee revenue, which he estimates at around $30 million a year, to drivers as compensation for the lost value of their now worthless taxi licenses. 
+    + But many drivers would settle for smaller, field-leveling tweaks that either loosen regulations on taxis or tighten them on the TNCs.
+    + Cabbies lobbying for the city to lower the minimum fare, $2.70 to $1.70, or to allow taxis to adjust prices with demand — so-called “dynamic pricing” — as Uber and Lyft can
+    + Time is of the essence - cabbies can't "hold on" for much longer
+        + For many drivers, the real question is whether any of these potential changes — regulatory easing, or government compensation, or higher TNC fares — can come soon enough
+        
++ while classified as "independent contractors", federal law bars them from unionizing
+    
+
+# Uber Became Big by Ignoring Laws (and It Plans to Keep Doing That) (Edward Ongweso Jr. & Jason Koebler, September 2019)
+
++ Uber says it will NOT comply with AB5
++ AB5 - checklist workflow used to classify employment status for an individual
+
+    + independent contractor - no benefits
+    + worker - limited benefits
+    + employee (FTE) - includes benefits like PTO, healthcare, sick time, etc.
+    
++ if drivers are contractors using the service and riders are customers using the service, then Uber is setting the cost of services: price fixing
+
